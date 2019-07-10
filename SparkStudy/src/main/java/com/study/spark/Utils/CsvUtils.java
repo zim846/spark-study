@@ -1,4 +1,4 @@
-package Utils;
+package com.study.spark.Utils;
 
 import java.io.*;
 import java.util.ArrayList;
